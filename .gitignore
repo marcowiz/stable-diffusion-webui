@@ -34,3 +34,8 @@ notification.mp3
 /test/stderr.txt
 /cache.json*
 /config_states/
+interrogate_tmp/artists.txt
+interrogate_tmp/flavors.txt
+interrogate_tmp/mediums.txt
+interrogate_tmp/movements.txt
+webui-user.bat
